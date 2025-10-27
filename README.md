@@ -1,6 +1,8 @@
 
 # Build pizza app! with ANGULAR, .NET8 and POSTGRESQL
 
+This project was developed as part of my academy coursework. 
+
 ## Module plan
 1. [Angular] Initializing Angular Project, Creating Components, Routing, Directives, Modules
 2. [Angular] Services, Dependency Injection, Lifecycle Methods, Custom Pipes, Custom Directives, Inputs, Outputs

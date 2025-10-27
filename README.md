@@ -1,4 +1,3 @@
-# mkwd13-wdel-ng-net
 
 # Build pizza app! with ANGULAR, .NET8 and POSTGRESQL
 
@@ -64,6 +63,3 @@ _____________________________________________________________
 
 2. Install and set up PostgreSQL and PGAdmin4 - `STEP BY STEP GUIDE => https://commandprompt.com/education/how-to-download-and-install-postgresql/`
 
-## TRAINER CONTACT
-- Aneta Stankovska - anetastankovskaane@gmail.com
-- Todor Pelivanov - tpelivanov@gmail.com

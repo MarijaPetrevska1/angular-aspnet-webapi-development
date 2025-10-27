@@ -2,6 +2,9 @@
 # Build pizza app! with ANGULAR, .NET8 and POSTGRESQL
 
 This project was developed as part of my academy coursework. 
+It is a learning project designed to help me practice Angular and understand how web applications are structured.  
+I am using this project to explore the code, learn from it, and improve my skills so that I can build similar projects on my own in the future.
+It is intended for learning and practice purposes.
 
 ## Module plan
 1. [Angular] Initializing Angular Project, Creating Components, Routing, Directives, Modules
